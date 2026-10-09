@@ -19,6 +19,7 @@ Refundly is an AI chatbot that handles return and refund requests for e-commerce
 | Language | Python 3.14 |
 | API | [FastAPI](https://fastapi.tiangolo.com/) |
 | LLM orchestration | [LangChain](https://python.langchain.com/) |
+| Agent workflow | [LangGraph](https://langchain-ai.github.io/langgraph/) |
 | Configuration | pydantic-settings (environment variables / `.env`) |
 | Packages and environments | [uv](https://docs.astral.sh/uv/) |
 | Tests and linting | pytest, Ruff |
